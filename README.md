@@ -3,4 +3,5 @@ This repo will be a fumbling attempt at trying to note and/or automate my person
 
 ## resources
 * <https://github.com/opentofu/registry/tree/main/providers>
-* digger?
+* trying out opentofu
+
